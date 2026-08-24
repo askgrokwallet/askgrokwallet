@@ -10,7 +10,7 @@
   "source": {
     "source": "url",
     "url": "https://github.com/richard7463/grokbotwallet.git",
-    "sha": "REPLACE_WITH_FULL_COMMIT_SHA"
+    "sha": "6459abb105301efee81cb0ed794c862e4dcf04b1"
   },
   "homepage": "https://github.com/richard7463/grokbotwallet",
   "keywords": [
@@ -38,7 +38,7 @@ before money or consequential actions move.
 - Plugin name: `grokbotwallet`
 - Type: remote source
 - Source URL + pinned SHA:
-  `https://github.com/richard7463/grokbotwallet.git` @ `REPLACE_WITH_FULL_COMMIT_SHA`
+  `https://github.com/richard7463/grokbotwallet.git` @ `6459abb105301efee81cb0ed794c862e4dcf04b1`
 - Homepage: https://github.com/richard7463/grokbotwallet
 
 ## Ownership
