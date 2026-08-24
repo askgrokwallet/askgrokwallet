@@ -1,0 +1,8 @@
+{
+  "summary": "Pay OpenAI API invoice",
+  "amountUsd": 80,
+  "requester": "strategy-office",
+  "target": "openai",
+  "source": "grok",
+  "policyText": "payments under $50 run automatically; over $50 ask me; never pay blacklisted merchants; daily budget $200"
+}

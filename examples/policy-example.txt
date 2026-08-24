@@ -1,0 +1,1 @@
+payments under $50 run automatically; over $50 ask me; never pay blacklisted merchants; daily budget $200

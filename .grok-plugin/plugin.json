@@ -1,0 +1,8 @@
+{
+  "name": "grokbotwallet",
+  "version": "0.1.0",
+  "description": "Governed wallet for Grok agents: budgets, allowlists, operator modes, and human approval before money or consequential actions move.",
+  "author": "grokbotwallet",
+  "license": "MIT",
+  "homepage": "https://github.com/richard7463/grokbotwallet"
+}
